@@ -1,0 +1,13 @@
+node_modules/
+
+#env file
+*.env
+
+# emacs backup files
+*.~*~
+
+# ternjs files
+.tern*
+
+# log files
+node-log.txt
